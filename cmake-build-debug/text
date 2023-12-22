@@ -1,0 +1,88 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void insert(int elem, int pos, int arr[], int n)
+{
+    for(int i = n - 1; i > pos; i--)
+    {
+        arr[i] = arr[i - 1];
+    }
+    arr[pos] = elem;
+}
+
+void delete(int elem, int arr[], int n)
+{
+for(int i = 0; i < n - 1; i++)
+{
+if(arr[i] == elem)
+{
+arr[i] = arr[i + 1];
+}
+}
+}
+
+int indexOf(int elem, int arr[], int n)
+{
+    for(int i = 0; i < n; i++)
+    {
+        if(arr[i] == elem)
+        {
+            return i;
+        }
+    }
+    return -1;//WAP menu-driven to input array of user defined size, insert, delete and search for elements in it
+}
+
+int main()
+{
+    int n, opt;
+    printf("\nEnter number of elements: ");
+    scanf("%d", &n);
+    int *arr = (int*) malloc(n * sizeof(int));
+    printf("\nEnter array elements: ");
+    for(int i = 0; i < n; i++)
+    {
+        scanf("%d", &arr[i]);
+    }
+    printf("\nEnter 1 for insertion OR 2 for deletion OR 3 for search: ");
+    scanf("%d", &opt);
+    switch (opt)
+    {
+        int pos, elem;
+        case 1:
+        {
+            printf("\nEnter element: ");
+            scanf("%d", &elem);
+            printf("\nEnter position: ");
+            scanf("%d", &pos);
+            insert(elem, pos, arr, n);
+            for (int i = 0; i < n; i++) {
+                printf("%d", arr[i]);
+            }
+            break;
+        }
+        case 2:
+        {
+            printf("\nEnter position: ");
+            scanf("%d", &pos);
+            delete(elem, arr, n);
+            for (int i = 0; i < n; i++) {
+                printf("\n%d", arr[i]);
+            }
+            break;
+        }
+        case 3:
+        {
+            printf("\nEnter element: ");
+            scanf("%d", &elem);
+            printf("\nPosition of %d: ", elem, indexOf(elem, arr, n));
+            break;
+        }
+        default:
+        {
+            printf("\nInvalid input");
+        }
+    }
+    free(arr);
+    return 0;
+}

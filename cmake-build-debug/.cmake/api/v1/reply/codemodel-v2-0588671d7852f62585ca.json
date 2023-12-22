@@ -1,0 +1,537 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DS_Lab",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AddTriplet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AddTriplet-Debug-795c56723f2728261feb.json",
+					"name" : "AddTriplet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AdjMtxGraph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdjMtxGraph-Debug-1a00e58939bc04987a2f.json",
+					"name" : "AdjMtxGraph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AltElemLL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AltElemLL-Debug-5af96751af881c593939.json",
+					"name" : "AltElemLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ArrayOps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ArrayOps-Debug-ab4ccdcca4a3353e0147.json",
+					"name" : "ArrayOps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ArrayPolynomial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ArrayPolynomial-Debug-486b312201a4fb626463.json",
+					"name" : "ArrayPolynomial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ArrayStack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ArrayStack-Debug-4a7eb9289a0e53229367.json",
+					"name" : "ArrayStack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BSTDelete::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BSTDelete-Debug-a3f4cbef243214757f37.json",
+					"name" : "BSTDelete",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BSTHeight::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BSTHeight-Debug-85886ceb1b71eddf5aba.json",
+					"name" : "BSTHeight",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BSTOps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BSTOps-Debug-34e2bf825a4b7cfe0886.json",
+					"name" : "BSTOps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BSTTraversals::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BSTTraversals-Debug-2b3ff06d69a010dfafe9.json",
+					"name" : "BSTTraversals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BinarySearch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BinarySearch-Debug-4d61962db5e452bd3e94.json",
+					"name" : "BinarySearch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CallByAddress::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CallByAddress-Debug-b14a54be48757f8bf71d.json",
+					"name" : "CallByAddress",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CircularDeque::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CircularDeque-Debug-a542a86d8eba473cdc02.json",
+					"name" : "CircularDeque",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CircularLL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CircularLL-Debug-faa538feea075e5f7fff.json",
+					"name" : "CircularLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CircularLinkedList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CircularLinkedList-Debug-0afadb10df7d40a83dbe.json",
+					"name" : "CircularLinkedList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CircularQueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CircularQueue-Debug-3ec7da98e59b9d91b258.json",
+					"name" : "CircularQueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ComplexNumber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ComplexNumber-Debug-f6055b4fbea3584acb7f.json",
+					"name" : "ComplexNumber",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DeleteAndPush::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DeleteAndPush-Debug-dd21ac492fc143efc5d1.json",
+					"name" : "DeleteAndPush",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DeleteLeafNodes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DeleteLeafNodes-Debug-741db0aefe80ccdf2c90.json",
+					"name" : "DeleteLeafNodes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DeleteNafterM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DeleteNafterM-Debug-545804552aa92d804e4d.json",
+					"name" : "DeleteNafterM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DivideList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DivideList-Debug-3d57d7bb4dfce8e39263.json",
+					"name" : "DivideList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DoublyLL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DoublyLL-Debug-8113f8a7b6e9c702a465.json",
+					"name" : "DoublyLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DoublyLinkedList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DoublyLinkedList-Debug-8cb211190c3b2d0296da.json",
+					"name" : "DoublyLinkedList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DynamicMalloc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DynamicMalloc-Debug-27ab304bd95b866957b0.json",
+					"name" : "DynamicMalloc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EmployeeStruct::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EmployeeStruct-Debug-9261597397fe56f3d5e2.json",
+					"name" : "EmployeeStruct",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GraphBFS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GraphBFS-Debug-d5a55cbdc335642af4e1.json",
+					"name" : "GraphBFS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GraphDFS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GraphDFS-Debug-1c0b79e9975277a096e4.json",
+					"name" : "GraphDFS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HeapSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HeapSort-Debug-689cc8a9572018a4fc06.json",
+					"name" : "HeapSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InfixToPostfix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InfixToPostfix-Debug-36167ed39c111f3f5d6a.json",
+					"name" : "InfixToPostfix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InsertionSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InsertionSort-Debug-fb6608133391bd0c17c6.json",
+					"name" : "InsertionSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LLPolynomial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LLPolynomial-Debug-36e0ae2a5f1411cbe084.json",
+					"name" : "LLPolynomial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LLPolynomialOps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LLPolynomialOps-Debug-d37978a9f4cd67b8d671.json",
+					"name" : "LLPolynomialOps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LLSparse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LLSparse-Debug-d2b3a30eb2c60ad0652b.json",
+					"name" : "LLSparse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LLSparseMatrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LLSparseMatrix-Debug-e6971288ec70d60d2cba.json",
+					"name" : "LLSparseMatrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LeafNodeDepth::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LeafNodeDepth-Debug-839a16d8e36eb3690ce7.json",
+					"name" : "LeafNodeDepth",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LevelOrder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LevelOrder-Debug-5b3af1f1a6e3e40f7328.json",
+					"name" : "LevelOrder",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LinearQueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LinearQueue-Debug-2a515f21f02765b11888.json",
+					"name" : "LinearQueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LinkedList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LinkedList-Debug-e72cbd36a6e68e05676c.json",
+					"name" : "LinkedList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LinkedListOps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LinkedListOps-Debug-8a534df83e6782a4374e.json",
+					"name" : "LinkedListOps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LinkedListQueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LinkedListQueue-Debug-2362f1b9a6c07511a261.json",
+					"name" : "LinkedListQueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LinkedListStack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LinkedListStack-Debug-6b3676b3de1e833eee56.json",
+					"name" : "LinkedListStack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Main-Debug-5fe7634069b8473724e6.json",
+					"name" : "Main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MatrixOps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MatrixOps-Debug-983a41f0422584c55676.json",
+					"name" : "MatrixOps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MergeSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MergeSort-Debug-bbd7686ce974b2e9e710.json",
+					"name" : "MergeSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PalindromLL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PalindromLL-Debug-076883f27c51bcadac0e.json",
+					"name" : "PalindromLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PriorityQueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PriorityQueue-Debug-8538d3273359221143ea.json",
+					"name" : "PriorityQueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QueueUsingStack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QueueUsingStack-Debug-aaccb03ff3c8551ef4c5.json",
+					"name" : "QueueUsingStack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QuickSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuickSort-Debug-92b7c0f9bdd7912d6c63.json",
+					"name" : "QuickSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SelectionSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SelectionSort-Debug-0b3cdfdf1ba69ad72306.json",
+					"name" : "SelectionSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SparseMatrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SparseMatrix-Debug-31c68654d43cb5f7cff4.json",
+					"name" : "SparseMatrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SparseSub::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SparseSub-Debug-ed13dd8c7769321bd178.json",
+					"name" : "SparseSub",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SwapK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SwapK-Debug-79e07fffcd27c6139f52.json",
+					"name" : "SwapK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tester::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tester-Debug-f8db46e8adcf51bc9649.json",
+					"name" : "Tester",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TransposeTriplet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TransposeTriplet-Debug-f8a6fc4c4715bf82fad0.json",
+					"name" : "TransposeTriplet",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/KIIT/CLionProjects/DS_Lab/cmake-build-debug",
+		"source" : "C:/Users/KIIT/CLionProjects/DS_Lab"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

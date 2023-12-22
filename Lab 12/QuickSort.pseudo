@@ -1,0 +1,25 @@
+qSort(arr, low, high) 
+    if low == high 
+        return;
+
+    partIdx = partition(arr, low, high)
+    qSort(arr, low, partIdx - 1)
+    qSort(arr, partIdx + 1, high)
+
+
+partition(arr[], low, high) 
+    pivot = arr[high]
+    left = low
+    right = high
+    while left < right 
+        while arr[left] <= pivot and left < high
+            left++
+        
+        while arr[right] > pivot and right > low
+            right--
+        
+        if left < right
+            swap (arr[left], arr[right])
+        
+    
+    swap(arr[right], arr[high])
